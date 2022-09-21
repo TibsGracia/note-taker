@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.7.8",
     "vue": "^2.6.10",
-    "vuetify": "^2.1.9"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.4",
